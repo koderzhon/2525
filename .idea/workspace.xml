@@ -12,6 +12,7 @@
       <change afterPath="$PROJECT_DIR$/out/production/State/com/company/Activity.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/State/com/company/Coding.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/State/com/company/Devoloper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/State/com/company/DevoloperDay.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/State/com/company/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/State/com/company/Reading.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/State/com/company/Sleeping.class" afterDir="false" />
@@ -37,10 +38,11 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.63" value="1" />
           <entry key="project.open.time.79" value="1" />
           <entry key="project.open.time.82" value="1" />
           <entry key="project.open.time.83" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -93,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Devoloper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="259">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -191,7 +193,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,7 +216,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,17 +268,17 @@
       <workItem from="1541602558839" duration="2264000" />
       <workItem from="1541665270289" duration="4463000" />
       <workItem from="1541734630127" duration="1038000" />
+      <workItem from="1541752219136" duration="449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10729000" />
+    <option name="totallyTimeSpent" value="11178000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -287,7 +289,7 @@
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
@@ -531,8 +533,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Devoloper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="259">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
